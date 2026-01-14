@@ -60,7 +60,9 @@
             font-size: 14px;
         }
 
-        /* 画像1: トップセクション（2枚の写真） */
+        /<img src="https://raw.githubusercontent.com/ユーザー名/リポジトリ名/main/portrait1.png">
+<img src="https://raw.githubusercontent.com/ユーザー名/リポジトリ名/main/portrait2.png">
+/
         .top-section {
             background: white;
             padding: 40px;
